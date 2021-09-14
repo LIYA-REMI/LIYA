@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Pikachu+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+LIYA+WA+Bot+repo;Created+by+RAMEEZ+SER;This+is+the+Best++Bgm+bot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -68,7 +68,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/LIYA-REMI/LIYA.git)
      </div>
 <br>
 <br >
@@ -88,8 +88,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/LIYA-REMI/LIYA
+$ cd liya 
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -98,8 +98,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/LIYA-REMI/LIYA
+$ cd Liya
 $ chmod +x *
 $ npm i
 $ node qr.js
